@@ -1,0 +1,16 @@
+{
+    "prefix": "!",
+    "token": "",
+    "description": "Just a Normal Discord Bot!",
+    "servername": "Detective Voke's server",
+    "host": "localhost",
+    "port": "8080",
+    "url": "http://localhost:8080",
+    "commands": {
+        "help": "Sends Help.",
+        "checkuser": "Check if the HWID is Authorized. (admin only).",
+        "removehwid": "Removes the HWID from the database (admin only).",
+        "addhwid": "Adds the HWID to the database (admin only)."
+
+    }
+}
